@@ -10,19 +10,21 @@ Method:   Giant Combat Robots
 
 ## Qualifications
 
-Unlike last season's official MRBC entry, the purpose of the Deathstronauts is to maximize our ranking within the selected division.  Players will be offered a preferred seating based on qualifications and time commitment rather than being logged in during a scheduled match time and not have already played a match.
+Unlike last season's official MRBC entry, the purpose of the Deathstronauts is to maximize our ranking within the selected division.  Players will be offered preferred seating in matches based on qualifications and time commitment rather than being logged in during a scheduled match time and not have already played a match.
 
-To qualify, in a 1v1 spar, defeat Congress in his Small Pulse Stormcrow.  Any MRBC valid mech is eligible for use in the qualification match.  You are limited to 3 match attempts per week.  Alternatively, drop in a scouting match, win, and do > 90% of Congress' total damage.
+To qualify, there are two options:
+  1.  In a 1v1 spar, defeat Congress in his Small Pulse Stormcrow.  Any MRBC valid mech is eligible for use in the qualification match.  You are limited to 3 match attempts per week.
+  2.  Alternatively, drop in a scouting match, win, and do > 90% of Congress' or Zym's total damage.
 
 Deathstronauts who have passed the qualification challenge will have ashured seats in MRBC matches:  If they are on time, and scheduled for a match, they play for all of their scheduled matches.  Non-qualified participants will not have priority over those who have passed their qualification challenge.
 
 
 ## Practice
 
-We can't win if we don't practice.  A reasonable amount of practice would be 60-120 mins per week.  We're going to do Scouting when we have < 5 players to practice our positioning.  When we have > 5, we'll switch up to private lobby scrims.
+We can't win if we don't practice.  A reasonable amount of practice would be 60-120 mins per week.  We're going to do Scouting when we have < 5 team mates to practice our coordination.  When we have > 5, we'll switch up to private lobby scrims unless the pugs are really good.  I recommend that others watch top tier games in MRBC's match archives to get an understanding of what a good team does to win, and what bad teams do to lose.
 
 
-# Mechs
+# Good Mechs
 
 ###### Lights
 ACH       - Small pulse lasers
