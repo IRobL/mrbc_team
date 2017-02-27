@@ -1,10 +1,8 @@
-# MRBC League Team
+# MRBC League Team Season 9
 
 ```
-Name:     Air Force Space Command (Deathstronauts)
-TAG:      N/A (DSNT)
-Mission:  Eliminate Peace in Space
-Method:   Giant Combat Robots
+Name:     The Forlorn Hope
+TAG:      FLH
 ```
 
 
