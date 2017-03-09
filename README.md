@@ -22,27 +22,9 @@ Deathstronauts who have passed the qualification challenge will have ashured sea
 We can't win if we don't practice.  A reasonable amount of practice would be 60-120 mins per week.  We're going to do Scouting when we have < 5 team mates to practice our coordination.  When we have > 5, we'll switch up to private lobby scrims unless the pugs are really good.  I recommend that others watch top tier games in MRBC's match archives to get an understanding of what a good team does to win, and what bad teams do to lose.
 
 
-# Good Mechs
+# Drop Decks
 
-###### Lights
-ACH       - Small pulse lasers
-SDR-5k    -
-JR7-IIC-A -
-MistLynx  -
-
-NVA       - Small pulse
-GRF-3M    -
-HBK-IIC   -
-
-
-SMN-D    - 5x c-streak SRM 6
-CPLT-A1  -
-TBR-S    - small laser, srm 6
-
-ZEU      -
-
-KGC-0000 - 4x AC-5
-KDK-3    - DAKA
+[Drop Decks](/drop_decks.md)
 
 
 
@@ -107,10 +89,3 @@ Once we finish a solid kill or too, we may dip out of combat.  Run behind cover 
 #### Re-engage (optional)
 
 Resume combat after leaving combat as a team.  Our heat bars will be ready for load, and we'll re-establish a primary target just as we did in the spring phase.  If your heat bar isn't ready, tell the coordinator.
-
-
-
-
-
-
-
