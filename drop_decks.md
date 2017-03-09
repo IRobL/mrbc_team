@@ -17,10 +17,10 @@ medium - Shadow Hawk [Toaster]
 ```
 
 ## DROP 2
-*
+_
   A)  Timby pilot's make this super brawly.  
   B)  Night Gyr/ Warhammer pilots make this a ranged dakka heavy centric game
-*
+_
 
 ```
 light - locust (cap excelerator)
