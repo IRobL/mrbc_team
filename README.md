@@ -24,9 +24,9 @@ We can't win if we don't practice.  A reasonable amount of practice would be 60-
 
 # Drop Decks
 
-These are the ideal setups.  If you don't quite have the skill in listed mechs, that no problem, just let us know and we'll try to work something out.  
+These [Drop Decks](/drop_decks.md) are the ideal setups.  If you don't quite have the skill in listed mechs, that no problem, just let us know and we'll try to work something out.  
 
-[Drop Decks](/drop_decks.md)
+
 
 # Playbook
 
@@ -34,12 +34,6 @@ These are the ideal setups.  If you don't quite have the skill in listed mechs, 
 
 #### Overview
 Scout -> Stage -> spring -> dip -> re-engage
-
-
-
-
-
-
 
 
 # Definitions
