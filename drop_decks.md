@@ -1,7 +1,5 @@
 ## DROP 1
-*
-  Tanky mediums (DPS from stormcrow and Shadow Hawk), protect them as they escape.
-*
+> Tanky mediums (DPS from stormcrow and Shadow Hawk), protect them as they escape.
 
 ```
 light - ach (spls) [Afro, Can of Bees]
@@ -17,10 +15,8 @@ medium - Shadow Hawk [Toaster]
 ```
 
 ## DROP 2
-_
-  A)  Timby pilot's make this super brawly.  
-  B)  Night Gyr/ Warhammer pilots make this a ranged dakka heavy centric game
-_
+> A)  Timby pilot's make this super brawly.  
+> B)  Night Gyr/ Warhammer pilots make this a ranged dakka heavy centric game.
 
 ```
 light - locust (cap excelerator)
@@ -37,9 +33,7 @@ Heavy - Timberwolf (srm/ spls) / ballistic Night Gyr or Warhammer
 
 
 ## DROP 3
-*
-  healthy mix of SHORT and MEDIUM range, commander tanky
-*
+> Healthy mix of SHORT and MEDIUM range, commander tanky.
 
 ```
 medium - crab 27 - MPL [Zealot]
@@ -57,9 +51,7 @@ COMMANDER (85 ton) - marauder IIC [Afro] - laser vommit :Battlemaster 2C [Zym]
 ```
 
 ## DROP 4
-*
-  Healthy mix of MEDIUM and LONG range
-*
+> Healthy mix of MEDIUM and LONG range.
 
 ```
 light - ach - SMPL [Congress]
@@ -76,9 +68,7 @@ assault - marauder IIC - [Afro/Zym]
 ```
 
 ## DROP 5
-*
-  Dakka line with fast pulse to close in and pop open components
-*
+> Dakka line with fast pulse to close in and pop open components.
 
 ```
 light - ach - SMPL - [Congress]
