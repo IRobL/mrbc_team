@@ -2,14 +2,11 @@
 
 ### Point System Approach
 
-We can have a series of challenges.  You gain points from completing theses challenges.  For example, one challenge can be kill my timberwofl.  That could be worth 1 point.
-
-You will need 3 points to play.  There are 5 challenges.  We need each class type to have it's own set of challenges.
+To qualify for scheduled seats at MRBC drops, you will be expected to complete a series of challenges.  Each challenge you complete gains you one or more points.  Challenges may be applicable only to the class to which you are applying.  Please expect the most qualified pilots will be fielded for each match, and that skill per class will also be taken into account for the drop; a great heavy pilot with full qualifications will not be prefered as a light pilot over a more skilled pilot with fewer overall qualifications.
 
 Minimum Points Required: 4 Points
 Number of challenges:  7 Points
 
-Challenges may be applicable only to the class to which you are applying.
 
 #### Challenges
 
