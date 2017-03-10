@@ -8,13 +8,9 @@ TAG:      FLH
 
 ## Qualifications
 
-Unlike last season's official MRBC entry, the purpose of the Deathstronauts is to maximize our ranking within the selected division.  Players will be offered preferred seating in matches based on qualifications and time commitment rather than being logged in during a scheduled match time and not have already played a match.
+Unlike last season's official MRBC entry, the purpose of this year's MRBC team is to maximize our ranking within the chosen division.  Players will be offered preferred seating in matches based on qualifications and time commitments rather than being logged in during a scheduled match time and not have already played a match.  Every attempt will be made to plan the exact lineup of players dropping at least by the night before the drop.
 
-To qualify, there are two options:
-  1.  In a 1v1 spar, defeat Congress in his Small Pulse Stormcrow.  Any MRBC valid mech is eligible for use in the qualification match.  You are limited to 3 match attempts per week.
-  2.  Alternatively, drop in a scouting match, win, and do > 90% of Congress' or Zym's total damage.
-
-Deathstronauts who have passed the qualification challenge will have ashured seats in MRBC matches:  If they are on time, and scheduled for a match, they play for all of their scheduled matches.  Non-qualified participants will not have priority over those who have passed their qualification challenge.
+For more information as to how for scheduled drops will go, read the [qualifications manual](/QUALIFICATIONS.md).  Basically you gain points by defeating challenges.  When the drops fill up with registrants, folks with more points will be scheduled to drop, so do your best to get as many points as possible.
 
 
 ## Practice
@@ -24,7 +20,7 @@ We can't win if we don't practice.  A reasonable amount of practice would be 60-
 
 # Drop Decks
 
-These [Drop Decks](/drop_decks.md) are the ideal setups.  If you don't quite have the skill in listed mechs, that no problem, just let us know and we'll try to work something out.  
+These [Drop Decks](/drop_decks.md) are the ideal setups.  If you don't quite have the skill in listed mechs, that no problem, just let us know and we'll try to work something out.
 
 
 
