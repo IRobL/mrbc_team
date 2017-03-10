@@ -27,7 +27,7 @@ Choose one:
 - Kill Zymflyin's Battlemaster
 
 ##### Verbal Essay
-Consicely explain to us over enjin why the MRBC team would become stronger by seating you rather than alternatives.  You'll be objectively graded based on how quickly you can assure us you're a good choice by thoughtful pointing our your best qualities.
+Consicely explain to us over enjin why the MRBC team would become stronger by seating you rather than alternatives.  You'll be objectively graded based on how quickly you can assure us you're a good choice by thoughtful pointing out your best qualities.
 
 ##### Medium challenges
 Walk up through theta against a skilled King Crab without loosing 100% of your CT armor.
