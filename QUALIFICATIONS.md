@@ -2,7 +2,7 @@
 
 ### Point System Approach
 
-To increase your liklihood of being scheduled in an MRBC drop, you will be expected to complete a series of challenges.  Each challenge you complete gains you one point.  Challenges **may** be applicable only to the class to which you are applying.  Please expect the most qualified pilots will be fielded for each match, and that skill per class will also be taken into account for the drop; a great heavy pilot with full qualifications will not be prefered as a light pilot over a more skilled pilot with fewer overall qualifications.
+Sometimes, more people schedule for events than we can comfortably field.  It's ideal for players in the MRBC team to drop in at least 3 of the matches each night.  The fact that we have more players than capacity means we will not be able to schedule everyone for drops in advance.  To increase your liklihood of being scheduled in an MRBC drop, you will be expected to complete a series of challenges.  Each challenge you complete gains you one point.  Challenges **may** be applicable only to the class to which you are applying.  Please expect the most qualified pilots will be fielded for each match, and that skill per class will also be taken into account for the drop; a great heavy pilot with full qualifications will not be prefered as a light pilot over a more skilled pilot with fewer overall qualifications.
 
 
 #### Challenges
