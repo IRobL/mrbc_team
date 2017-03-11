@@ -2,10 +2,7 @@
 
 ### Point System Approach
 
-To qualify for scheduled seats at MRBC drops, you will be expected to complete a series of challenges.  Each challenge you complete gains you one or more points.  Challenges may be applicable only to the class to which you are applying.  Please expect the most qualified pilots will be fielded for each match, and that skill per class will also be taken into account for the drop; a great heavy pilot with full qualifications will not be prefered as a light pilot over a more skilled pilot with fewer overall qualifications.
-
-Minimum Points Required: 4 Points
-Number of challenges:  7 Points
+To increase your liklihood of being scheduled in an MRBC drop, you will be expected to complete a series of challenges.  Each challenge you complete gains you one point.  Challenges **may** be applicable only to the class to which you are applying.  Please expect the most qualified pilots will be fielded for each match, and that skill per class will also be taken into account for the drop; a great heavy pilot with full qualifications will not be prefered as a light pilot over a more skilled pilot with fewer overall qualifications.
 
 
 #### Challenges
@@ -14,6 +11,9 @@ Number of challenges:  7 Points
 Choose one:
 - Kill Congress' Cheetah
 - Kill Toaster's Locust
+
+##### Medium Assassination
+
 
 ##### Heavy Assassination
 Choose one:
@@ -37,5 +37,3 @@ Kill a skilled light pilot's Arctic Cheetah at >= 500 meters before it can do 20
 
 ###### Scouting Challenge
 Kick some serious ass in scouting with me:  Do at least as much damage as me (or more) in a scouting match where we win, and neither of us dies.  In the event that you kick very serious ass, but these criteria are not fully met, a point may be arbitrarily granted to you.
-
-
