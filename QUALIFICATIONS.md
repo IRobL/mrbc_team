@@ -13,7 +13,8 @@ Choose one:
 - Kill Toaster's Locust
 
 ##### Medium Assassination
-
+Choose one:
+- Kill Hrokir's Viper
 
 ##### Heavy Assassination
 Choose one:
@@ -25,6 +26,11 @@ Choose one:
 - Kill Afr0thund3r's King Crab
 - kill my King Crab
 - Kill Zymflyin's Battlemaster
+
+##### Level Playing Field
+Kill these officers while they pilot any mech of your choosing and you pilot any other mech in the same weight class.
+
+-
 
 ##### Verbal Essay
 Consicely explain to us over enjin why the MRBC team would become stronger by seating you rather than alternatives.  You'll be objectively graded based on how quickly you can assure us you're a good choice by thoughtful pointing out your best qualities.

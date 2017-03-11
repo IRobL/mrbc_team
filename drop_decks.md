@@ -1,3 +1,6 @@
+# Drop Decks
+All of these decks are guidlines.  If you're better in something else that plays an equivilent roll you just need to talk to the Drop owner and confirm with us that you're bringing an alternative.  
+
 ## DROP 1
 > Tanky mediums (DPS from stormcrow and Shadow Hawk), protect them as they escape.
 
@@ -19,10 +22,10 @@ medium - Shadow Hawk [Toaster]
 > B)  Night Gyr/ Warhammer pilots make this a ranged dakka heavy centric game.
 
 ```
-light - locust (cap excelerator)
+light - locust
 light - ACH (small pulse tank)
 
-medium - Viper (cap accelerator)
+medium - Viper (support alpha lance if ganking opportunity arrises, otherwise scout for bravo lance)
 medium - Griffin 3M
 medium - Stormcrow
 medium - Shadow HAwk/ hunchback IIC
