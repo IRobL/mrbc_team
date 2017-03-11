@@ -18,7 +18,7 @@ Choose one:
 
 ##### Heavy Assassination
 Choose one:
-- Kill my timby
+- Kill Congress' timby
 - Kill Kilgore's best heavy
 
 ##### Assault Assassination
@@ -30,9 +30,9 @@ Choose one:
 ##### Level Playing Field
 Kill these officers while they pilot any mech of your choosing and you pilot any other mech in the same weight class.  
 
-- Toaster
 - Congress
 - DJdizzyG
+- Toaster
 
 ##### Verbal Essay
 Consicely explain to us over enjin why the MRBC team would become stronger by seating you rather than alternatives.  You'll be objectively graded based on how quickly you can assure us you're a good choice by thoughtful pointing out your best qualities.
