@@ -28,9 +28,11 @@ Choose one:
 - Kill Zymflyin's Battlemaster
 
 ##### Level Playing Field
-Kill these officers while they pilot any mech of your choosing and you pilot any other mech in the same weight class.
+Kill these officers while they pilot any mech of your choosing and you pilot any other mech in the same weight class.  
 
--
+- Toaster
+- Congress
+- DJdizzyG
 
 ##### Verbal Essay
 Consicely explain to us over enjin why the MRBC team would become stronger by seating you rather than alternatives.  You'll be objectively graded based on how quickly you can assure us you're a good choice by thoughtful pointing out your best qualities.

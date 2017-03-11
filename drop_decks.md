@@ -1,11 +1,11 @@
 # Drop Decks
-All of these decks are guidlines.  If you're better in something else that plays an equivilent roll you just need to talk to the Drop owner and confirm with us that you're bringing an alternative.  
+All of my decks are guidlines.  If you're better in something else that plays an equivilent roll you just need to talk to the Drop owner and confirm with us that you're bringing an alternative.  
 
 ## DROP 1
 > Tanky mediums (DPS from stormcrow and Shadow Hawk), protect them as they escape.
 
 ```
-light - ach (spls) [Afro, Can of Bees]
+light - ach (spls) [Afro, Can of Bees, Congress]
 light - ^^
 light - jENNER iic 6Xsrm4 1jj TC1 or hybrid JIIC 4spl 2srm4
 light - Wolfhoud (5mpl)
