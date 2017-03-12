@@ -30,6 +30,7 @@ Choose one:
 ##### Level Playing Field
 Kill these officers while they pilot any mech of your choosing and you pilot any other mech in the same weight class.  
 
+Choose any:
 - Congress
 - DJdizzyG
 - Toaster

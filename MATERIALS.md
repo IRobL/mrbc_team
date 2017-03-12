@@ -1,5 +1,11 @@
 # Materials
 
+## Web App Stuff
+
+- This repo: A way to create a hard set, thought changeable policy
+- [Available Mechs Spreedsheet:](https://docs.google.com/spreadsheets/d/14ui2tTYchz6tk_ixhB7mEkZ0zabK-FGaGQugVN5V4KA/edit#gid=0) A way to share with the team what you like to play
+
+
 #### What does a light do in a brawl?
 
 We target heaviest mechs to lightest based on estimated time to kill (TTK).  On a hot mech, you'll have loads of time to pick your shots.  Patients is virtue, just don't reach resting heat and we'll be fine.  Ultimately, you want to never be on resting heat after you engage the enemy, and you want to always be focusing on the mech that the caller is targetting.
@@ -17,5 +23,3 @@ You basically will be playing hard to get and limiting your exposure time.  It d
 Read what mediums do.  Basically, the opposition will treat the heaviest class the way mediums are treated in the first drop brawl.
 
 [Vid of EMP doing their thing with heavy mechs](https://www.youtube.com/watch?v=DYr2Zx1w4Js)
-
-
