@@ -40,10 +40,14 @@ Choose any:
 Consicely explain to us over enjin why the MRBC team would become stronger by seating you rather than alternatives.  You'll be objectively graded based on how quickly you can assure us you're a good choice by thoughtful pointing out your best qualities.  
 
 ##### Medium challenges
-Walk up through theta against a skilled King Crab without loosing 100% of your CT armor.
+Walk up through theta against a skilled King Crab pilot and remove it's legs (possibly nurfed).  
+
+![medium_challenge_final](https://cloud.githubusercontent.com/assets/24548742/24072683/b9b8a6f8-0bb8-11e7-87dd-22e1ba7b769d.png)
 
 ###### Dakka Challenge
-Kill a skilled light pilot's Arctic Cheetah at >= 500 meters before it can do 20 laps across.
+Kill a skilled Medium pilot's Shadow Cat at ~500 meters before it can do 20 laps across across the designated route.
+
+![dakka_challenge](https://cloud.githubusercontent.com/assets/24548742/24072687/c507fea0-0bb8-11e7-9d17-a2a2b5da3f06.png)
 
 ###### Scouting Challenge
 Kick some serious ass in scouting with me:  Do at least as much damage as me (or more) in a scouting match where we win, and neither of us dies.  In the event that you kick very serious ass, but these criteria are not fully met, a point may be arbitrarily granted to you.
