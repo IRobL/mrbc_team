@@ -45,7 +45,7 @@ Walk up through theta against a skilled King Crab pilot and remove it's legs (po
 ![medium_challenge_final](https://cloud.githubusercontent.com/assets/24548742/24072683/b9b8a6f8-0bb8-11e7-87dd-22e1ba7b769d.png)
 
 ###### Dakka Challenge
-Kill a skilled Medium pilot's Shadow Cat at ~500 meters before it can do 5 laps across across the designated route.
+Kill a skilled Medium pilot's Shadow Cat at ~500 meters before it can do 3 complete laps across across the designated route.
 
 ![dakka_challenge](https://cloud.githubusercontent.com/assets/24548742/24072687/c507fea0-0bb8-11e7-9d17-a2a2b5da3f06.png)
 
