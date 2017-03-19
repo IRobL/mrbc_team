@@ -9,21 +9,23 @@ Sometimes, more people schedule for events than we can comfortably field.  It's 
 
 ##### Light Assassination
 Choose one:
-- Kill Congress' Cheetah
+- Kill Afr0Thund3r's Mist Lynx
+- Kill DJ's Jenner
 - Kill Toaster's Locust
 
 ##### Medium Assassination
 Choose one:
 - Kill Hrokir's Viper
+- Kill Gnorn's Hunchback IIC
+- Kill Congress' Stormcrow
 
 ##### Heavy Assassination
 Choose one:
-- Kill Congress' timby
-- Kill Kilgore's best heavy
+- Kill Congress' Timby
+- Kill Kilgore's Black Knight
 
 ##### Assault Assassination
 Choose one:
-- Kill Afr0thund3r's King Crab
 - Kill Gnorns Kodiak
 - Kill Struan's Kodiak
 - Kill Zymflyin's Battlemaster
@@ -33,6 +35,7 @@ Kill these officers while they pilot any mech of the weight class of your choosi
 
 Choose any:
 - Congress
+- Killgore
 - DJdizzyG
 - Toaster
 
