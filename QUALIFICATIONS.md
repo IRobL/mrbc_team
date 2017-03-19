@@ -37,7 +37,7 @@ Choose any:
 - Toaster
 
 ##### Verbal Essay
-Consicely explain to us over enjin why the MRBC team would become stronger by seating you rather than alternate.  You'll be objectively graded based on how quickly you can assure us you're a good choice by thoughtful pointing out your best qualities.  
+Consicely explain to us over voice comms why the MRBC team would become stronger by seating you rather than alternate.  You'll be objectively graded based on how quickly you can assure us you're a good choice by thoughtful pointing out your best qualities.  
 
 ##### Medium challenges
 Walk up through theta against a skilled King Crab pilot and remove it's legs (possibly nurfed).  
