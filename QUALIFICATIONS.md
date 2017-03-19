@@ -29,7 +29,7 @@ Choose one:
 - Kill Zymflyin's Battlemaster
 
 ##### Level Playing Field
-Kill these officers while they pilot any mech of your choosing and you pilot any other mech in the same weight class.  
+Kill these officers while they pilot any mech of the weight class of your choosing while you pilot a mech of that same weight class.  
 
 Choose any:
 - Congress
